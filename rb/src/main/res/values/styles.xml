@@ -1,0 +1,28 @@
+<resources>
+    <style name="NewsAppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--<style name="ToolBarStyle">-->
+        <!--<item name="android:id">@id/toolbar</item>-->
+        <!--<item name="android:layout_width">match_parent</item>-->
+        <!--<item name="android:layout_height">?actionBarSize</item>-->
+        <!--<item name="android:background">?attr/colorPrimary</item>-->
+        <!--<item name="android:focusable">true</item>-->
+        <!--<item name="theme">@style/ToolBarTheme</item>-->
+        <!--<item name="android:focusableInTouchMode">true</item>-->
+    <!--</style>-->
+
+    <!--<style name="ToolBarTheme" parent="Theme.AppCompat.NoActionBar">-->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    <!--</style>-->
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>

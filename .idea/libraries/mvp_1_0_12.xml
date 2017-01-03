@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mvp-1.0.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rb/build/intermediates/exploded-aar/com.cnhubei.gaf/mvp/1.0.12/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/rb/build/intermediates/exploded-aar/com.cnhubei.gaf/mvp/1.0.12/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
